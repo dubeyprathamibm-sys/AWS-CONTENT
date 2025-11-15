@@ -38,3 +38,120 @@ If you like, I can also give you a **recent (2025-updated exam blueprint + tips)
 [5]: https://cloudzenia.com/blog/a-beginners-guide-to-prepare-for-the-aws-certified-cloud-practitioner-exam-clf-c02-2/?utm_source=chatgpt.com "AWS Certified Cloud Practitioner Exam (CLF-C02) | CloudZenia Blog"
 [6]: https://www.accredipath.com/aws-certified-cloud-practitioner/?utm_source=chatgpt.com "AWS AWS Certified Cloud Practitioner (CLF-C02) - Accredipath"
 [7]: https://certempire.com/aws-cloud-practitioner-certification-exam/?utm_source=chatgpt.com "All You Need to Know About AWS Cloud Practitioner CLF-C02 Certification Exam - Cert Empire - Up to date Exam DUMPS for 2025 Certification Exams"
+
+
+
+
+Here is the **proper, official-style weightage breakdown** of the **AWS Cloud Practitioner (CLF-C02)** course, divided into categories based on the **latest exam blueprint**.
+
+---
+
+# ☁️ **AWS Cloud Practitioner – Course Weightage (CLF-C02)**
+
+The entire CLF-C02 syllabus is divided into **4 major domains**, each with a different weightage.
+
+---
+
+# 📘 **1. Cloud Concepts – 24%**
+
+This domain includes the **fundamentals** of cloud computing.
+
+### Topics:
+
+* What is Cloud Computing?
+* 6 Advantages of Cloud
+* Global Infrastructure (Regions, AZs, Edge)
+* Shared Responsibility Model
+* Types of Cloud (IaaS/PaaS/SaaS)
+* AWS Well-Architected Framework (Basics)
+
+📌 *Weightage: 24% → Around 12 questions*
+
+---
+
+# 🔐 **2. Security & Compliance – 30%**
+
+This is **the highest weightage domain** in CLF-C02.
+
+### Topics:
+
+* IAM (Users, Groups, Roles, Policies)
+* MFA, Password Policies
+* AWS Security Tools: CloudTrail, Config, GuardDuty, Inspector
+* Encryption (KMS, SSE, Client-side)
+* Compliance Programs
+* DDoS Protection (Shield, WAF)
+
+📌 *Weightage: 30% → Around 15 questions*
+
+---
+
+# 💰 **3. Cloud Technology & Services – 34%**
+
+This is the **core AWS services section**.
+
+### Topics:
+
+* Compute (EC2, Lambda, ECS)
+* Storage (S3, EBS, EFS, Glacier)
+* Networking (VPC, Route53, CloudFront, Load Balancers)
+* Databases (RDS, DynamoDB, Redshift)
+* Monitoring (CloudWatch, CloudTrail)
+* Billing & Cost Tools
+
+📌 *Weightage: 34% → Around 17 questions*
+
+---
+
+# 🧾 **4. Billing, Pricing, & Support – 12%**
+
+This domain focuses on the **financial** and **support** aspects.
+
+### Topics:
+
+* AWS Pricing Models (On-Demand, Spot, Reserved)
+* TCO Calculator
+* AWS Bills & Cost Explorer
+* Free Tier
+* Support Plans (Basic, Developer, Business, Enterprise)
+
+📌 *Weightage: 12% → Around 6 questions*
+
+---
+
+# 🎯 **Total: 100%**
+
+| Domain                      | Weightage |
+| --------------------------- | --------- |
+| Cloud Concepts              | 24%       |
+| Security & Compliance       | 30%       |
+| Cloud Technology & Services | 34%       |
+| Billing & Pricing           | 12%       |
+
+---
+
+# ✨ Summary (Hinglish)
+
+👉 **Bada weightage:**
+
+* Security & Compliance (30%)
+* AWS Core Services (34%)
+
+👉 **Medium weightage:**
+
+* Cloud Concepts (24%)
+
+👉 **Lowest weightage:**
+
+* Billing & Pricing (12%)
+
+---
+
+If you want, I can also make:
+
+📌 **A full 12-day Cloud Practitioner study plan**
+📌 **Topic-wise quiz bank (30/50/100 questions)**
+📌 **PDF summary notes for CLF-C02**
+📌 **Mindmap / flowchart of syllabus**
+
+Just tell me!
